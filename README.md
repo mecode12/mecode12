@@ -15,5 +15,5 @@ A motivated Junior Software Engineer currently pursuing a Bachelor of Engineerin
 - **Core Competencies:** Data Structures & Algorithms, Systems Analysis, Software Design, Testing
 
 ## 📬 Connect with me:
-- 💼 LinkedIn: [linkedin.com/in/mete-akash](https://linkedin.com/in/mete-akash)[cite: 1]
+- 💼 LinkedIn: [linkedin.com/in/akash-ismail-312a3841b](https://www.linkedin.com/in/akash-ismail-312a3841b)
 - 📧 Email: akbarakash587@gmail.com
